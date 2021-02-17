@@ -1,0 +1,39 @@
+G:\TADS\Pré Aula\Segundo Semestre\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe.config
+E:\UMC 2º Sem\Pré aula\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe.config
+E:\UMC 2º Sem\Pré aula\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe
+E:\UMC 2º Sem\Pré aula\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.pdb
+E:\UMC 2º Sem\Pré aula\Mercadinho_Registro\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.csprojResolveAssemblyReference.cache
+E:\UMC 2º Sem\Pré aula\Mercadinho_Registro\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.exe
+E:\UMC 2º Sem\Pré aula\Mercadinho_Registro\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.pdb
+E:\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe.config
+E:\Mercadinho_Registro\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.exe
+E:\Mercadinho_Registro\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.pdb
+E:\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe
+E:\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.pdb
+E:\Mercadinho_Registro\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.csprojResolveAssemblyReference.cache
+G:\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe.config
+G:\Mercadinho_Registro\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.exe
+G:\Mercadinho_Registro\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.pdb
+G:\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe
+G:\Mercadinho_Registro\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.pdb
+G:\Mercadinho_Registro\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.csprojResolveAssemblyReference.cache
+E:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe.config
+E:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.exe
+E:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.pdb
+E:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe
+E:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.pdb
+E:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.csprojResolveAssemblyReference.cache
+D:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe.config
+D:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe
+D:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.pdb
+D:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.csprojResolveAssemblyReference.cache
+D:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.csproj.CoreCompileInputs.cache
+D:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.exe
+D:\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.pdb
+C:\Users\Dayelle\Desktop\neri\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe.config
+C:\Users\Dayelle\Desktop\neri\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.exe
+C:\Users\Dayelle\Desktop\neri\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\bin\Debug\Mercadinho_Registro.pdb
+C:\Users\Dayelle\Desktop\neri\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.csprojResolveAssemblyReference.cache
+C:\Users\Dayelle\Desktop\neri\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.csproj.CoreCompileInputs.cache
+C:\Users\Dayelle\Desktop\neri\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.exe
+C:\Users\Dayelle\Desktop\neri\MERCADINHO 100% ATUALIZADO\Mercadinho_Registro\obj\Debug\Mercadinho_Registro.pdb
